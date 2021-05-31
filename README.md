@@ -17,3 +17,10 @@ No diretório src/test/resources/drivers, adicionar a versão do driver que dese
 
 Para chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads 
 
+# Eventuais problema
+
+No Eclipse, se encontrar problemas de execução, ir em Run Configurations e setar o local de Feature Path para o local atual da feature.
+Clicar com botão direito na feature > Run As > Run Configurations > Feature Path
+
+*Dúvidas: pode entrar em contato*.
+
